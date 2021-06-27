@@ -1,6 +1,6 @@
 # Drum kit
 
-Drum kit actionanted by the keyboard
+Drum kit actionated by the keyboard
 
 ## Screenshot
 
